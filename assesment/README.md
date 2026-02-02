@@ -67,5 +67,5 @@ If you want to look at the database while testing, H2 console is enabled at http
 
 Use these settings:
 - JDBC URL: jdbc:h2:mem:transfer_system
-- Username: sa
-- Password: leave empty
+- Username: root
+- Password: root
